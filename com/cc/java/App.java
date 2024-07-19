@@ -9,6 +9,7 @@ public class App
        Child child = new Child();
         output(child.sayHello("Hi from "));
         output(child.sayHello());
+        output(child.sayHello());
        
     }
 
